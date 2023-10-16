@@ -8,7 +8,9 @@
 * 🔎 Activity 2: Deploying the created HTML tags to github pages.
 
 ## Members:
-* 👦 [Mikko S. Martinez](https://github.com/Mikko11)
+* 👨‍💻 [Mikko S. Martinez](https://github.com/Mikko11)
+* 👨‍💻 [Jose Jr. S. Lasala](https://github.com/JoseLasala)
+* 👩‍💻 [Rosemarie E. Armenta](https://github.com/armentarosemarie)
 
 ## ❤️ Acknowledgement: ❤️
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/)
