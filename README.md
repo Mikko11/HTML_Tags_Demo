@@ -9,8 +9,6 @@
 
 ## Members:
 * 👨‍💻 [Mikko S. Martinez](https://github.com/Mikko11)
-* 👨‍💻 [Jose Jr. S. Lasala](https://github.com/JoseLasala)
-* 👩‍💻 [Rosemarie E. Armenta](https://github.com/armentarosemarie)
 
 ## ❤️ Acknowledgement: ❤️
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/)

@@ -1,5 +1,4 @@
-/* Reset some default styles */
-* {
+body, h1, h2, h3, p, ul, li, code, button{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -17,6 +16,11 @@ body {
     margin: 0;
 
 }
+
+body h2 {
+    color: whitesmoke;
+  }
+
 header {
     text-align: center;
     color:#fff;
@@ -387,3 +391,91 @@ header {
     transform: rotateX(10deg) rotateY(50deg);
 }
 
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    background-color: #440404;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .variable-names {
+    margin-top: 30px;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .column {
+    flex: 1 1 48%;
+  }
+  
+  .columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .column {
+    flex: 1 1 24%;
+    margin-bottom: 10px;
+    background-color: #d3cbcb;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .name-type {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+  }
+  
+  code {
+    background-color: #f5f5f5;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #440404;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
