@@ -6,6 +6,8 @@
 ## 🗃 Activities:
 * 🔎 Activity 1: Creating static website about HTML Tags
 * 🔎 Activity 2: Deploying the created HTML tags to github pages.
+* 🔎 Activity 3: CSS Demo
+* 🔎 Activity 4: Valid Variable Names
 
 ## Members:
 * 👨‍💻 [Mikko S. Martinez](https://github.com/Mikko11)
