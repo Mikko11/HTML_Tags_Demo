@@ -6,11 +6,11 @@
 ## 🗃 Activities:
 * 🔎 Activity 1: Creating static website about HTML Tags
 * 🔎 Activity 2: Deploying the created HTML tags to github pages.
+* 🔎 Activity 3: CSS Demo
+* 🔎 Activity 4: Valid Variable Names
 
 ## Members:
 * 👨‍💻 [Mikko S. Martinez](https://github.com/Mikko11)
-* 👨‍💻 [Jose Jr. S. Lasala](https://github.com/JoseLasala)
-* 👩‍💻 [Rosemarie E. Armenta](https://github.com/armentarosemarie)
 
 ## ❤️ Acknowledgement: ❤️
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/)
